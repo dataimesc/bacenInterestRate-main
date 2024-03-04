@@ -23,7 +23,7 @@ body {
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding:  16px;
   text-decoration: none;
   font-size: 17px;
   font-family: Arial, sans-serif;
@@ -41,7 +41,7 @@ body {
 }
 
 header {
-  padding: 20px;
+  padding: 0px 0px 20px 0px;
   display: flex;
   flex-direction: column;
   background: linear-gradient(45deg, rgba(9,204,245,1) 0%, rgba(9,204,245,1) 35%, rgba(9,204,245,1) 100%);
